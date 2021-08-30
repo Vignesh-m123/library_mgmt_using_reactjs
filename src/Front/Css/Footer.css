@@ -1,0 +1,22 @@
+@import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
+.clock{
+    text-align: left !important;
+    color: white;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+.date{
+    text-align: inherit;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.fa-facebook-square{
+    font-size: 20px !important;
+    color: white !important;
+}
+.fa-twitter-square{
+    font-size: 20px !important;
+    color: white !important;
+}
+.fontsize{
+    font-size: 30px;
+}
